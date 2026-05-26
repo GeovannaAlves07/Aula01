@@ -1,0 +1,9 @@
+1. Configurar o Git
+git config --global user.name "GeovannaAlves07"
+git config --global user.email "geovaninha.alves.figueiredo@gmail.com"
+
+2. Inicializar o git
+git init
+
+3. Criar o repo no GitHub
+Nome do repo: Aula01"
